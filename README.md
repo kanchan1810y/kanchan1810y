@@ -4,7 +4,8 @@
 - 💻  I am proficient in java
 - 🖼  I have speciality in Frontend Tech Stack of HTML, CSS and JAVASCRIPT 
 - 🌱  I’m currently learning Object Oriented Programming
-- 💞️  I’m looking to collaborate on Open Source Project
+- 📲  Take a Quick Snap to look at some of my repo for work preferances
+- 💞️  Open to collaborate on Open Source Project
 - 📫  reach me at kanchan1810y@gmail.com
 
 <!---
